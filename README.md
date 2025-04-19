@@ -10,4 +10,4 @@ This repository is a structured collection of exercises and challenges designed 
 https://www.linkedin.com/in/mahadansari18?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqLowUfRYSzCRGxVSZZ%2BZsw%3D%3D    
 -Email:  
 mahadansari18@gmail.com  
-** Stay consistent. Stay curious. Keep Building.**
+**Stay consistent. Stay curious. Keep Building**
