@@ -6,9 +6,9 @@ This repository is a structured collection of exercises and challenges designed 
 -Control Flow (if/else if/else)  
 -Collections (Lists, Sets, Maps)
 ## Connect with Me
--Linkedin:  
-https://www.linkedin.com/in/mahadansari18?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqLowUfRYSzCRGxVSZZ%2BZsw%3D%3D    
--Email:  
-mahadansari18@gmail.com  
+
+- [LinkedIn](https://www.linkedin.com/in/mahadansari18)
+- **Email:** [mahadansari18@gmail.com](mailto:mahadansari18@gmail.com)
+  
 
 **Stay consistent. Stay curious. Keep Building**
